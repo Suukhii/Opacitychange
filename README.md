@@ -1,6 +1,7 @@
 # Opacitychange
 
-Changes opacity on apps with help from a auto hot key 
+Changes opacity on apps with help from an autohotkey
 
-Opacity decrease = (Win  + Alt)
-Opacity increase = (Win + Ctrl)
+
+**Opacity decrease = (Win  + Alt)**</br>
+**Opacity increase = (Win + Ctrl)**
